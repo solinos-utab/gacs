@@ -43,15 +43,15 @@ run_command() {
 # Print banner
 print_banner() {
 	echo -e "${BLUE}${BOLD}"
-	echo "   ____    _    ____ ____     ____            _       _   "
-	echo "  / ___|  / \  / ___/ ___|   / ___|  ___ _ __(_)_ __ | |_ "
-	echo " | |  _  / _ \| |   \___ \   \___ \ / __| '__| | '_ \| __|"
-	echo " | |_| |/ ___ \ |___ ___) |   ___) | (__| |  | | |_) | |_ "
-	echo "  \____/_/   \_\____|____/   |____/ \___|_|  |_| .__/ \__|"
-	echo "                                               |_|        "
+	echo "  ___   ___    ___   ___   ____   "
+	echo " |    |     ||     ||   | |       "
+	echo " |    |     ||  |  ||  \   ----   "
+	echo " |          ||     ||   \  ____|  "
+	echo "  "
+	echo "                                  "
 	echo ""
 	echo "                  --- Ubuntu 22.04 ---"
-	echo "                  --- By Mostech ---"
+	echo "                  --- By Solikin MarsData ---"
 	echo -e "${NC}"
 }
 
