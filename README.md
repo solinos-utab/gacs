@@ -1,4 +1,4 @@
-# GACS-Ubuntu-22.04
+# GenieAcs Ubuntu 22.04
 This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
 
 # Usage
@@ -9,19 +9,19 @@ sudo su
 git clone https://github.com/solinos-utab/gacs.git
 ```
 ```
-cd GACS-Ubuntu-22.04
+cd gacs
 ```
 ```
-chmod +x GACS-Jammy.sh
+chmod +x mdnetacs.sh
 ```
 ```
 sudo apt-get install dos2unix
 ```
 ```
-dos2unix GACS-Jammy.sh
+dos2unix mdnetacs.sh
 ```
 ```
-bash GACS-Jammy.sh
+bash mdnetacs.sh
 ```
 
 
